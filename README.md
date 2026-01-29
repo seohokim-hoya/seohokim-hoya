@@ -25,6 +25,14 @@
 #### And I'm learning more about
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/> 
 
+
+
+### Environment
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=linux&logoColor=white"/>
+
+
+
 ### About Web-Development
 
 #### Backend
@@ -36,6 +44,8 @@
 #### Database & DevOps
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
+
+
 ### IDE
 
 #### I usually uses
@@ -43,6 +53,8 @@
 
 #### But I also interested in
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"/>
+
+
 
 ### Cryptocurrency
 
