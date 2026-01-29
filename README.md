@@ -8,7 +8,7 @@
 ## Profile
 
 - **Name**: 김서호 (Seoho Kim)
-- **Birth**: 2006 (Age 19)
+- **Birth**: 2006
 - **Education**: 
   - **KAIST** School of Computing (24학번, 재학)
   - **Gyeonggibuk Science High School** (18기, 조기졸업)
@@ -57,11 +57,19 @@
 ## Work & Projects
 
 ### Projects
-| Project | Role | Description | Tech |
-| :--- | :--- | :--- | :--- |
-| **JEET Education CRM** | FE Developer | 학생 관리 웹사이트 개발 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> |
-| **KAIST SCSpace** | Lead FE / BE | 학생문화공간위원회 리뉴얼 사이트 개발 주도 | <img src="https://img.shields.io/badge/Service-Link-blue?style=flat-square"/> |
-| **QoL Lab App** | BE / AI | 노인 편의성 UX 개선 및 AI 접목 물품 구매 앱 | `Private` |
+
+#### [JEET Education CRM](https://github.com/JEETEDU/JEET-Edu-Plan)
+- FE Developer
+- 학생 관리 웹사이트 개발
+
+#### [KAIST SCSpace](https://github.com/KAIST-Student-Culture-Space-Committee/scspace)
+- [Website Link](https://scspace.kws.sparcs.net)
+- Lead FE / BE
+- KAIST 학생문화공간위원회 리뉴얼 사이트 개발 주도
+
+#### QoL Lab App
+- BE / AI
+- 노인 편의성 UX 개선 및 AI 접목 물품 구매 앱
 
 ### Experience
 - **(주) 삶의질연구소** (2026.05 - 2026.09)
@@ -73,7 +81,7 @@
 ## Awards & Activities
 
 ### Research
-- **PLRG @ KAIST** (Programming Language Research Group)
+- **[PLRG @ KAIST](https://github.com/kaist-plrg)** (Programming Language Research Group)
   - Undergraduate Intern (2026.01 ~ Present)
 
 ### Awards
